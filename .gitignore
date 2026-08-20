@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 .env
+airway_metadata.csv
+airway_scaledcounts.csv
+differentially_expressed_genes.csv
